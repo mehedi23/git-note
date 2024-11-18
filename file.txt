@@ -1,0 +1,4 @@
+fun one()
+	start game
+	run 50 min
+	end game
