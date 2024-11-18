@@ -1,4 +1,5 @@
 fun one()
 	start game
+	game start at 10 am
 	run 50 min
 	end game
