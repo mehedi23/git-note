@@ -2,3 +2,4 @@ fun one()
 	start game
 	run 50 min
 	end game
+	player go to rest
